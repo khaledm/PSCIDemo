@@ -24,4 +24,3 @@ jobs:
             return "Something return data!";
       - name: Get Result
         run: echo "${{ steps.create-comment.outputs.result }}"
-            
