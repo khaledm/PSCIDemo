@@ -18,7 +18,7 @@ jobs:
         dot-net-version: [5.0.x]
         include:
           - os: ubuntu-latest
-            dot-net-version: 7.1.x
+            dot-net-version: 7.0.x
 
     steps:
     - uses: actions/checkout@v4
