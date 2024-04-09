@@ -10,7 +10,7 @@ on:
     branches: [ "main" ]
 
 env:
-  AZURE_WEB_APP_NAME: 'app-pcsidemo'
+  AZURE_WEB_APP_NAME: 'PSDemoApp01'
   AZURE_WEBAPP_PACKAGE_PATH: '.'
 
 jobs:
